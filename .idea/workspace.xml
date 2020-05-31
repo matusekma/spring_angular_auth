@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="809e9207-4932-4f4e-97f0-8ec4836f8851" name="Default Changelist" comment="Add resource server project">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/java/hu/bme/aut/resource/ResourceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/test/java/hu/bme/aut/resource/ResourceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_angular_auth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/ng" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/npm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/app.component.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/app.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/components/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/components/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/components/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/components/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/main/java/hu/bme/aut/spring_angular_auth/SpringAngularAuthApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/styles.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/test/java/hu/bme/aut/spring_angular_auth/SpringAngularAuthApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ng" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/npm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/bme/aut/spring_angular_auth/SpringAngularAuthApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hu/bme/aut/spring_angular_auth/SpringAngularAuthApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cfKOtUH4GKnJGqI3Bleb8O6Buv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resource" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marci\BME\projects\Java\spring_angular_auth" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="809e9207-4932-4f4e-97f0-8ec4836f8851" name="Default Changelist" comment="" />
+      <created>1590914178519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590914178519</updated>
+      <workItem from="1590914187903" duration="165000" />
+      <workItem from="1590914424215" duration="942000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add resource server project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add resource server project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2443" y="88" key="CommitChangelistDialog2" timestamp="1590915347294">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2443" y="88" key="CommitChangelistDialog2/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590915347294" />
+    <state x="2659" y="261" key="FileChooserDialogImpl" timestamp="1590915365866">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2659" y="261" key="FileChooserDialogImpl/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590915365866" />
+    <state x="2262" y="181" key="new project wizard" timestamp="1590914360702">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2262" y="181" key="new project wizard/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590914360702" />
+  </component>
+</project>

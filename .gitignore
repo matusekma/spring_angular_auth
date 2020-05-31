@@ -1,4 +1,4 @@
-HELP.md
+resource/HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
@@ -29,7 +29,8 @@ build/
 
 ### VS Code ###
 .vscode/
-# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+ui/HELP.md
 
 # compiled output
 /dist
@@ -48,8 +49,6 @@ speed-measure-plugin*.json
 
 # IDEs and editors
 /.idea
-.project
-.classpath
 .c9/
 *.launch
 .settings/

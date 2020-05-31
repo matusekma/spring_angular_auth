@@ -1,0 +1,1 @@
+export const resourceURL = "http://localhost:9000";
