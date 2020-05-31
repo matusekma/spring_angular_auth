@@ -3,8 +3,8 @@ import {Injectable, NgModule} from '@angular/core';
 import {FormsModule} from '@angular/forms';
 import {HTTP_INTERCEPTORS, HttpClientModule, HttpHandler, HttpInterceptor, HttpRequest} from '@angular/common/http';
 import {AppService} from './app.service';
-import {HomeComponent} from './home.component';
-import {LoginComponent} from './login.component';
+import {HomeComponent} from './components/home/home.component';
+import {LoginComponent} from './components/login/login.component';
 import {AppComponent} from './app.component';
 import {AppRoutingModule} from "./app-routing.module";
 
